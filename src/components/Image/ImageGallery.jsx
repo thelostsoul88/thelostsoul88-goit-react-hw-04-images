@@ -5,7 +5,6 @@ const ImageGallery = ({ query }) => {
   return (
     <>
       <ul className={css.ImageGallery}>
-        {' '}
         {query.map(({ id, webformatURL, largeImageURL, tags }) => (
           <ImageGalleryItem
             key={id}
