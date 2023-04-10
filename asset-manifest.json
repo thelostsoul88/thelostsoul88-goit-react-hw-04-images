@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/thelostsoul88-goit-react-hw-04-images/static/css/main.361c8962.css",
-    "main.js": "/thelostsoul88-goit-react-hw-04-images/static/js/main.80024241.js",
+    "main.js": "/thelostsoul88-goit-react-hw-04-images/static/js/main.2ff89b41.js",
     "index.html": "/thelostsoul88-goit-react-hw-04-images/index.html",
     "main.361c8962.css.map": "/thelostsoul88-goit-react-hw-04-images/static/css/main.361c8962.css.map",
-    "main.80024241.js.map": "/thelostsoul88-goit-react-hw-04-images/static/js/main.80024241.js.map"
+    "main.2ff89b41.js.map": "/thelostsoul88-goit-react-hw-04-images/static/js/main.2ff89b41.js.map"
   },
   "entrypoints": [
     "static/css/main.361c8962.css",
-    "static/js/main.80024241.js"
+    "static/js/main.2ff89b41.js"
   ]
 }
